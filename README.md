@@ -1,2 +1,2 @@
 # License-plate-recognition-and-classfication
-License plate recognition and classfication
+Licenseplate recognition and classfication
